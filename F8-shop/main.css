@@ -1,0 +1,342 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.body {
+  overflow: hidden;
+  background-image: linear-gradient(0, black, gray);
+}
+
+.head {
+  background-color: black;
+  width: 100%;
+  height: 80px;
+  position: relative;
+
+}
+
+.head .head1 {
+  width: 120px;
+  height: 40px;
+  background-color: green;
+  border-style: solid;
+  border-radius: 6px;
+  position: absolute;
+  top: 16px;
+  right: 15px;
+}
+
+#text {
+  text-align: center;
+  line-height: 40px;
+  color: white;
+}
+
+.head .head2 {
+  width: 46px;
+  height: 40px;
+  background-image: url(https://anh.eva.vn/upload/4-2016/images/2016-11-30/1480494815-facebook-sao-viet.png);
+  background-size: 100% 40px;
+  background-repeat: no-repeat;
+  position: relative;
+  top: 20px;
+  left: 1325px;
+  border-radius: 6px;
+
+}
+
+.head .head3 {
+  width: 46px;
+  height: 40px;
+  background-image: url(https://p16-tiktokcdn-com.akamaized.net/obj/tiktok-obj/7d3ffaa759cd19246919b752afb55bd6);
+  background-size: 100% 40px;
+  background-repeat: no-repeat;
+  position: relative;
+  top: -20px;
+  left: 1255px;
+  border-radius: 6px;
+
+}
+
+.head .head4 {
+  width: 46px;
+  height: 40px;
+  background-image: url(https://png.pngtree.com/element_our/png_detail/20181011/youtube-social-media-icon-design-template-vector-png_127049.jpg);
+  background-size: 100% 40px;
+  background-repeat: no-repeat;
+  position: relative;
+  top: -60px;
+  left: 1190px;
+  border-radius: 6px;
+
+}
+
+.head .head5 {
+  width: 46px;
+  height: 40px;
+  background-image: url(https://thumbs.dreamstime.com/z/instagram-icon-logo-social-media-logos-element-vector-popular-icons-internet-web-165735502.jpg);
+  background-size: 100% 40px;
+  background-repeat: no-repeat;
+  position: relative;
+  top: -100px;
+  left: 1120px;
+  border-radius: 6px;
+}
+
+.head .head6 {
+  width: 46px;
+  height: 40px;
+  background-image: url(https://cdn1.vectorstock.com/i/1000x1000/27/05/setting-icon-isolated-on-white-background-vector-25322705.jpg);
+  background-size: 100% 40px;
+  background-repeat: no-repeat;
+  position: relative;
+  top: -140px;
+  left: 10px;
+  border-radius: 6px;
+}
+
+#item {
+  width: 120px;
+  height: 40px;
+  background-color: green;
+  position: absolute;
+  top: 20px;
+  left: 100px;
+  text-align: center;
+  line-height: 40px;
+  color: white;
+}
+
+
+
+.box {
+  margin-top: 30px;
+  margin-left: 562px;
+  position: relative;
+}
+
+.duc {
+  position: absolute;
+  top: 102px;
+  left: 765px;
+}
+
+#box1 {
+  margin-right: 20px;
+  color: blue;
+
+}
+
+#box2 {
+  margin-left: 20px;
+  color: blue;
+}
+
+
+#phim1 {
+  width: 100%;
+  height: 500px;
+  background-image: url(https://booking.bhdstar.vn/CDN/media/entity/get/FilmPosterGraphic/HO00002569?referenceScheme=HeadOffice&allowPlaceHolder=true&height=500);
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: block;
+  object-fit: contain;
+  margin-top: 30px;
+  margin-left: 70px;
+
+}
+
+#phim2 {
+  width: 100%;
+  height: 500px;
+  background-image: url(https://booking.bhdstar.vn/CDN/media/entity/get/FilmPosterGraphic/HO00002570?referenceScheme=HeadOffice&allowPlaceHolder=true&height=500);
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: block;
+  object-fit: contain;
+  margin-top: -500px;
+  margin-left: 450px;
+
+}
+
+#phim3 {
+  width: 100%;
+  height: 500px;
+  background-image: url(https://booking.bhdstar.vn/CDN/media/entity/get/FilmPosterGraphic/HO00002548?referenceScheme=HeadOffice&allowPlaceHolder=true&height=500);
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: block;
+  object-fit: contain;
+  margin-top: -500px;
+  margin-left: 831px;
+
+}
+
+#phim4 {
+  width: 100%;
+  height: 500px;
+  background-image: url(https://booking.bhdstar.vn/CDN/media/entity/get/FilmPosterGraphic/HO00002557?referenceScheme=HeadOffice&allowPlaceHolder=true&height=500);
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: block;
+  object-fit: contain;
+  margin-top: -500px;
+  margin-left: 1199px;
+
+}
+
+#phim {
+  margin-left: -48px;
+}
+
+#input {
+  margin-top: 40px;
+  text-align: center;
+  color: green;
+}
+
+#hra {
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 308px;
+}
+
+.name {
+  font-size: 35px;
+  margin-top: 20px;
+  margin-left: 550px;
+  position: relative;
+}
+
+.name3 {
+  position: absolute;
+  top: 758px;
+  left: 798px;
+}
+
+#name1 {
+  padding-right: 20px;
+  color: red;
+}
+
+#name2 {
+  padding-left: 20px;
+  color: red;
+}
+
+.khuyenmai {
+  margin-top: 20px;
+  ;
+}
+
+.khuyenmai1 {
+  width: 400px;
+  height: 281vh;
+  background-image: url(https://www.bhdstar.vn/wp-content/uploads/2022/12/S%C3%BAtB%C3%B3ngChallenge-1920X1080-1.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: 30px;
+  margin-left: 85px;
+  position: relative;
+
+}
+
+.khuyenmai2 {
+  width: 400px;
+  height: 281px;
+  background-image: url(https://www.bhdstar.vn/wp-content/uploads/2018/03/Suat-Khuya-Web.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 0px;
+  left: 465px;
+}
+
+.khuyenmai3 {
+  width: 400px;
+  height: 281px;
+  background-image: url(https://www.bhdstar.vn/wp-content/uploads/2018/03/Web-HappyDay.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 0px;
+  left: 935px;
+}
+
+.web {
+  position: absolute;
+  top: 250px;
+  left: -300px;
+}
+
+#chu {
+  color: green;
+}
+
+.coc {
+  width: 300px;
+  height: auto;
+  background-image: url(https://www.bhdstar.vn/wp-content/themes/bhd/assets/images/logo.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 50px;
+}
+
+.desk {
+  width: 1535px;
+  height: 400px;
+  background-color: hsla(257, 90%, 4%, 0.878);
+  position: relative;
+  margin-top: -150px;
+}
+
+.computer {
+  width: 200px;
+  height: 200px;
+  background-image: url(https://www.bhdstar.vn/wp-content/themes/bhd/assets/images/logo.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: -100px;
+  left: 650px;
+}
+
+.pen {
+  font-size: 20px;
+  position: absolute;
+  top: 70px;
+  left: 100px;
+}
+
+h4 {
+  margin-bottom: 20px;
+  color: white;
+}
+
+p {
+  color: yellow;
+  line-height: 1.5;
+}
+
+.para {
+  margin-top: 5px;
+  margin-bottom: 7px;
+}
+
+.mate {
+  font-size: 20px;
+  position: absolute;
+  top: 70px;
+  left: 400px;
+}
+
+#eye {
+  text-align: center;
+  color: white;
+  margin-top: 30px;
+  margin-left: 260px;
+  font-size: 16px;
+}
